@@ -1,0 +1,32 @@
+{
+    "biaseumekwe0@outlook.com": {
+        "Last check": "2023-03-26",
+        "Today's points": 0,
+        "Points": 0,
+        "Daily": false,
+        "Punch cards": false,
+        "More promotions": false,
+        "MSN shopping game": false,
+        "PC searches": false
+    },
+    "nanasurmeko88@outlook.com": {
+        "Last check": "",
+        "Today's points": 0,
+        "Points": 0,
+        "Daily": false,
+        "Punch cards": false,
+        "More promotions": false,
+        "MSN shopping game": false,
+        "PC searches": false
+    },
+    "fitramaulana441@outlook.com": {
+        "Last check": "",
+        "Today's points": 0,
+        "Points": 0,
+        "Daily": false,
+        "Punch cards": false,
+        "More promotions": false,
+        "MSN shopping game": false,
+        "PC searches": false
+    }
+}
