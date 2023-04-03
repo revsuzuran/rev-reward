@@ -13,5 +13,26 @@
         "Last check": "2023-03-26",
         "Today's points": 0,
         "Points": 863
-    }
+    },
+    "rudianjayani2003@outlook.com": {
+        "Last check": "2023-03-26",
+        "Today's points": 460,
+        "Points": 460
+    },
+    "originmartha90@outlook.com": {
+        "Last check": "2023-03-26",
+        "Today's points": 440,
+        "Points": 440
+    },
+    "erikandrian113@outlook.com": {
+        "Last check": "2023-03-26",
+        "Today's points": 690,
+        "Points": 918
+    },
+    "tulipperkasa90@outlook.com": {
+        "Last check": "2023-03-26",
+        "Today's points": 640,
+        "Points": 898
+    },
+    "Elapsed time": "00:00:00"
 }
